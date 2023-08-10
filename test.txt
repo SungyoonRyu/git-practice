@@ -1,2 +1,3 @@
 it's test for thinkpad T16
 it's test for mini server
+test
